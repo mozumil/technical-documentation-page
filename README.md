@@ -11,8 +11,8 @@ A beginner-friendly AI guide built with HTML and CSS, featuring a responsive sid
 
 ## 📌 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
+- [Introduction](#📖Introduction)
+- [Features](##🚀Features)
 - [Getting Started](#getting-started)
 - [Live Demo](#live-demo)
 - [Author](#author)
@@ -34,7 +34,20 @@ Learn the basics of AI, including types, machine learning, and ethics, with simp
 
 ---
 
-## 📂 Getting Started
+## 📸 Preview
 
-```bash
-git clone https://github.com/mozumil/technical-documentation-page.git
+![technical-documentation-page](technical-documentation-page-screenshot.png)
+
+## 🌐 Live Demo
+
+[View Live Demo](https://mozumil.github.io/technical-documentation-page/)
+
+## 📬 Author
+
+Muzammil Mirza
+Connect on X: [@hiMuzammil](https://x.com/hiMuzammil)  
+© 2025 Muzammil Mirza
+
+## 📜 License
+[Apache License
+Version 2.0, January 2004](http://www.apache.org/licenses/)
