@@ -51,7 +51,9 @@ It’s designed for beginners with clean explanations and sample code snippets.
 ## 📬 Author
 
 👨‍💻 **Muzammil Mirza**  
-📌 Connect on X: [@hiMuzammil](https://x.com/hiMuzammil)  
+📌 Connect on X: [@hiMuzammil](https://x.com/hiMuzammil) 
+
+📌 GitHub: [@mozumil](https://github.com/mozumil)
 
 © 2025 Muzammil Mirza  
 
